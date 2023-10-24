@@ -1,0 +1,71 @@
+body{
+    background-image: url('https://marketplace.canva.com/EAFSMfHObwo/2/0/1600w/canva-golden-and-green-modern-plants-zoom-virtual-background-tT4f9hIt1dk.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.date{
+    width: 300px;
+}
+
+table{
+    width: 100%;
+    margin: 100px auto;
+    background: rgb(241, 243, 112);
+}
+
+table.list{
+    text-align: center;
+    width: 100%;
+}
+
+td{
+    border: 1px solid rgb(23, 24, 20);
+    text-align: left;
+    padding: 8px 15px;
+}
+
+input[type="text"],input[type="number"]{
+    width:80%;
+    padding:12px 20px;
+    margin:8px 0;
+    display: inline-block;
+    border: 1px solid rgb(165,161,161);
+    border-radius: 4px;
+}
+
+input[type="submit"],input[type="reset"]{
+    background: #f7eeec;
+    padding:6px 12px;
+    margin:15px 0 10px;
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+button{
+    background: #eee;
+    padding:6px 12px;
+    margin:15px 0 10px;
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover{
+    background:#c90e0e ;
+
+}
+
+h2 {text-align: center;}
+div {
+    text-align: center;
+}
